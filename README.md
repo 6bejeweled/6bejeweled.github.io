@@ -1,2 +1,2 @@
-# Wlcome to 6bejeweled.github.io
+# Welcome to 6bejeweled.github.io
 ---
