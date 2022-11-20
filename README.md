@@ -11,8 +11,9 @@
        Zodiac Sign: Sagittarius
        
  Taylor's Album as of now:
+ 
  *Studio Albums*
-- [Taylor Swift](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=mA8jeyeuQ6uL8NQLOk1xGQ)(2006)
+- [Taylor Swift](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=mA8jeyeuQ6uL8NQLOk1xGQ) (2006)
 - Fearless (2008)
 - Speak Now (2010)
 - Red (2012)
@@ -23,7 +24,7 @@
 - Evermore (2020)
 - Midnights (2022)
 
-Re-recordings
+*Re-recordings*
 - Fearless (Taylor's Version) (2021)
 - Red (Taylor's Version) (2021)
 - 1989 (Taylor’s Verison) (2021/2022) 1989 has no re release date yet but we have 2 singles that include*
