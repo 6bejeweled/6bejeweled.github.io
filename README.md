@@ -1,7 +1,7 @@
 # Welcome to 6bejeweled.github.io
 ---
-	![Taylor Swift](https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0)
-  ---
+![Taylor Swift](https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0)
+---
   Taylor swift is an American pop singer-songwriter whose tales of teenage heartbreak were widely popular in the early 21st century.
   
        Name: Taylor Alison Swift
