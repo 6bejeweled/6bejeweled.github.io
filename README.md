@@ -1,4 +1,4 @@
-# TAYLOR SWIFT
+# **TAYLOR SWIFT**
 ---
 ![Taylor Swift](https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0)
 ---
@@ -27,6 +27,6 @@
 *Re-recordings*
 - Fearless (Taylor's Version) (2021)
 - Red (Taylor's Version) (2021)
-- 1989 (Taylor’s Verison) (2021/2022) 1989 has no re release date yet but we have 2 singles that include*
+- 1989 (Taylor’s Verison) (2021/2022) *1989 has no re release date yet but we have 2 singles that include*
 - Wildest Dreams (Taylor’s Version) (2021)
 - This Love (Taylor’s Version) (2022)
