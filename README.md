@@ -30,3 +30,6 @@
 - [1989 (Taylor’s Verison)](2021/2022) *1989 has no re release date yet but we have 2 singles that include*
 - [Wildest Dreams (Taylor’s Version)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU?si=tqtrNB_BSPOiP1lzy1sJ4A) (2021)
 - [This Love (Taylor’s Version)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y?si=_CWOl933TqyIR9ER9nlAQQ) (2022)
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/06HL4z0CvFAxyc27GXpf02?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
