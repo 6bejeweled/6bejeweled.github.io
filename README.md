@@ -13,7 +13,7 @@
  Taylor's Album as of now:
  
  *Studio Albums*
-- [Taylor Swift](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=mA8jeyeuQ6uL8NQLOk1xGQ) (2006)
+- [Taylor Swift](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=mA8jeyeuQ6uL8NQLOk1xGQ)
 - Fearless (2008)
 - Speak Now (2010)
 - Red (2012)
