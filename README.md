@@ -27,7 +27,7 @@
 *Re-recordings*
 - [Fearless (Taylor's Version)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH?si=k8hbMR9QRVyqF1St7ptltQ) (2021)
 - [Red (Taylor's Version)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9?si=PG-MWe0EQfm5ei7_EAV7fA) (2021)
-- [1989 (Taylor’s Verison)](2021/2022) *1989 has no re release date yet but we have 2 singles that include*
+- [1989 (Taylor’s Verison)](https://open.spotify.com/playlist/3FDxvlbpPQ39XDmwMGgneS?si=41f5929100f04464) (2021/2022) *1989 has no re release date yet but we have 2 singles that include*
 - [Wildest Dreams (Taylor’s Version)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU?si=tqtrNB_BSPOiP1lzy1sJ4A) (2021)
 - [This Love (Taylor’s Version)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y?si=_CWOl933TqyIR9ER9nlAQQ) (2022)
 
